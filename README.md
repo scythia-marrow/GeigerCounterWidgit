@@ -9,10 +9,14 @@ python VirtualGeiger.py
 ```
 
 # Dependencies
-This widgit depends on the ```sounddevice``` and ```numpy``` libraries. To aquire these libraries, use ```pip```.
+This widgit depends on the ```sounddevice```, ```soundfile```, and ```numpy``` libraries. To aquire these libraries, use ```pip```.
 
 ```
 pip install sounddevice
+```
+
+```
+pip install soundfile
 ```
 
 ```
